@@ -1,5 +1,5 @@
 # project1
-https://mrbunited.github.io/project1-1/
+https://mrbunited.github.io/interface-pr-1/
 
 
 
@@ -10,7 +10,7 @@ Must use at least two APIs
 
 Must use AJAX to pull data
 
-Must utilize at least one new library or technology that we haven’t discussed
+Must utilize at least one new library or technology that we havenâ€™t discussed
 
 Must have a polished frontend / UI 
 
